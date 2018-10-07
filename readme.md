@@ -17,36 +17,42 @@ My whole theme setup is mostly based on those great themes:
 * ... but shadows are cool if you want them
 
 
+## How it looks?
+![Some code](screenshots/code.png)
+![Music](screenshots/music.png)
+![Random stuff](screenshots/random.png)
+![Popups](screenshots/popups.png)
+
 ### Colors
 #### Background
 
-Background: `#263238` <span style="color:#263238">██</span> 
+Background: `#263238`
 
-Popup Background: `#37474F` <span style="color:#37474f">██</span> 
+Popup Background: `#37474F`
 
 #### Accents
-Standard accent: `#82AAFF` <span style="color:#82AAFF">██</span> 
+Standard accent: `#82AAFF`
 
-Optional accent: `#89DDFF` <span style="color:#89DDFF">██</span> 
+Optional accent: `#89DDFF`
 
 #### Other colors
 
 [I am using mostly those from here](https://github.com/equinusocio/vsc-material-theme)
 
-Red:    `#FF5370` <span style="color:#FF5370">██</span>
+Red:    `#FF5370`
 
-Orange: `#F78C6C` <span style="color:#F78C6C">██</span>
+Orange: `#F78C6C`
 
-Yellow: `#FFCB6B` <span style="color:#FFCB6B">██</span>
+Yellow: `#FFCB6B`
 
-Green:  `#C3E88D` <span style="color:#C3E88D">██</span>
+Green:  `#C3E88D`
 
-Purple: `#C792EA` <span style="color:#C792EA">██</span>
+Purple: `#C792EA`
 
-Brown:  `#C17E70` <span style="color:#C17E70">██</span>
+Brown:  `#C17E70`
 
-Pink:   `#F07178` <span style="color:#F07178">██</span>
+Pink:   `#F07178`
 
-Violet: `#BB80B3` <span style="color:#BB80B3">██</span>
+Violet: `#BB80B3`
 
 
