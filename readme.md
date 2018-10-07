@@ -1,4 +1,4 @@
-# `0`ceanic Theme - TODO: Proper name
+# 0ceanic Theme - TODO: Proper name
 
 **Disclaimer**
 My whole theme setup is mostly based on those great themes:
