@@ -28,6 +28,7 @@
 }
 
 #window {
+    /*font-family: "Noto Mono 100"; */
     background-color: @background;
     border: 0;
     padding: 2.5ch;
